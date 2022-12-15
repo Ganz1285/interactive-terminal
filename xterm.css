@@ -184,6 +184,11 @@
     pointer-events: none;
 }
 
+#interac {
+	color:blue;
+	font-size:50px;
+
+}
 .xterm-decoration-top {
     z-index: 2;
     position: relative;
